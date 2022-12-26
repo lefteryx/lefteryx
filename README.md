@@ -5,5 +5,5 @@ Besides being a terminally online nerd, I like playing the keyboard, playing tab
 
 I'm currently excitedly exploring different domains including, but not limited to, Machine Learning, App Development, Back-end Development and Competitive Programming.
 
-I can be contacted via email at _lft@duck.com_ and [LinkedIn](www.linkedin.com/in/yath). 
+Reach me via email at _lft@duck.com_ or at [LinkedIn](www.linkedin.com/in/yath). 
 I can also be found lurking on [Telegram](t.me/lftryx) (_@lftryx_) and [Twitter](https://mobile.twitter.com/lefteryx) (_@lefteryx_).
