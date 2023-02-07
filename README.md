@@ -6,6 +6,6 @@ Besides being a terminally online nerd, I like playing the keyboard, playing tab
 I'm currently excitedly exploring different domains including, but not limited to, Machine Learning, App Development, Back-end Development and Competitive Programming.
 
 Reach me via email at _lft@duck.com_ or at [LinkedIn](www.linkedin.com/in/yath). 
-I can also be found lurking on [Telegram](t.me/lftryx) (_@lftryx_) and [Twitter](https://mobile.twitter.com/lefteryx) (_@lefteryx_).
+I can also be found lurking on [Telegram](t.me/lftryx) (_@lftryx_) and [Twitter](https://twitter.com/lefteryx) (_@lefteryx_).
 
 PS. Most of the repos here have been transferred from @WellCrowKek, another account of mine that isn't active anymore.
